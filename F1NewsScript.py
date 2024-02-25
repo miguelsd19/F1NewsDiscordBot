@@ -6,15 +6,15 @@ import threading
 
 
 # Configura tu API key de Google News
-API_KEY = "e8cb9a19512f40df9c8582a1c9e1f777"
+API_KEY = ""
 
 # Configura tu token de acceso de Discord
-DISCORD_TOKEN = "MTIxMTQwODU3NDIxNjAxNTg4Mg.GEh2hm.Bt0IumYtVq0AJEjU0xbYUlna15D7JYvgOqvu6Q"
+DISCORD_TOKEN = ""
 
 # Canal de Discord donde se enviarán las notificaciones
-CHANNEL_ID = 1159605158485954652
+CHANNEL_ID = "int"
 
-SERVER_ID = 1159605157819076688
+SERVER_ID = "int"
 
 fecha_actual = date.today()
 
